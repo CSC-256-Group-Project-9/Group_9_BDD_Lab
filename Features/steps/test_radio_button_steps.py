@@ -44,7 +44,7 @@ def select_radio_button_1(context):
     button.click()
 
 
-@then(u'The user sees ""Favorite Language: JavaScript" is displayed')
+@then(u'The user sees "Favorite Language: JavaScript" is displayed')
 def display_selection(context):
     text_displayed = context.driver.find_element(By.XPATH, '//*[@id="result"]')
     assert text_displayed.text == "Favorite Language: JavaScript"
