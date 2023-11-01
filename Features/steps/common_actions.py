@@ -1,6 +1,5 @@
 # These are the common actions all tests will do. These include launching the browser and
 # opening to the specified webpage to test and finally closing the browser after the tests
-# Written by: Owen Cawlfield
 
 from behave import *
 from selenium import webdriver
@@ -13,7 +12,7 @@ def launch_browser(context):
 
 @given(u'Open the browser to the web app')
 def open_webapp(context):
-    context.driver.get("https://group-9-unofficial.vercel.app/testing")
+    context.driver.get("https://group-9-webapp-official.vercel.app/testing")
 
 
 @then(u'Close Browser')
