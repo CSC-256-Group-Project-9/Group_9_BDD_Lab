@@ -1,16 +1,8 @@
+# This will test if the Radio Buttons work
+# Written by: Owen Cawlfield
+
 from behave import *
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-
-
-@given(u'Launch the Firefox browser')
-def launch_browser(context):
-    context.driver = webdriver.Firefox()
-
-
-@given(u'Open the browser to the web app')
-def open_webapp(context):
-    context.driver.get("https://group-9-unofficial.vercel.app/testing")
 
 
 @given(u'radio button 4 is not selected by default')
@@ -57,7 +49,3 @@ def display_selection(context):
     text_displayed = context.driver.find_element(By.XPATH, '//*[@id="result"]')
     assert text_displayed.text == "Favorite Language: JavaScript"
 
-
-@then(u'Close Browser')
-def close_browser(context):
-    context.driver.close()
