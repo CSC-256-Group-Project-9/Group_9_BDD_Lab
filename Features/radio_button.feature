@@ -15,5 +15,5 @@ Feature: To verify radio buttons work on web app
   Scenario: To Validate selection display changed
     Given Radio Button 4 is selected and "Favorite Language: Python" is displayed
     When The user selects Radio Button 1 and presses submit
-    Then The user sees ""Favorite Language: JavaScript" is displayed
+    Then The user sees "Favorite Language: JavaScript" is displayed
     And Close Browser
