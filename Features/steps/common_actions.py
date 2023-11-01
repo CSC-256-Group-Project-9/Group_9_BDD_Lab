@@ -1,5 +1,6 @@
 # These are the common actions all tests will do. These include launching the browser and
 # opening to the specified webpage to test and finally closing the browser after the tests
+# Written by: Owen Cawlfield
 
 from behave import *
 from selenium import webdriver
