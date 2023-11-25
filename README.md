@@ -1,7 +1,8 @@
 # Group 9 BDD Lab
 A resource to guide students towards successfully completing the Behaviour driven development lab (BDD).
 ## Getting Started:
-- A quick review of understanding [BDD,Gherkin, and Behave with a simple to follow example:]() *Will add quick guide(made by documents team) when finalized and added to BDD repo*
+- A quick review of understanding [BDD, Gherkin, and Behave with a simple to follow example](Understanding_TDD_and_BDD.docx)
+ *Will add quick guide(made by documents team) when finalized and added to BDD repo*
 - Another great resource for understanding [BDD:](https://behave.readthedocs.io/en/latest/) and [Gherkins:](https://cucumber.io/docs/gherkin/reference/)
 ## Project Overview
 -  The purpose of this project is to understand and use BDD.
@@ -19,5 +20,18 @@ A resource to guide students towards successfully completing the Behaviour drive
 >- This is how you would implement Behave to execute the Gherkin language using Python.
 * Remember the **BDD approach is being used to test the functionalities** of the mini-projects in the Selenium lab*
 ## Additional Notes
-  *Will add more document info when added to BDD repo*
-  **But feel free to add anything you feel is necessary**
+ ### Works cited:
+ Works Cited
+Gogna, Vandan. “A Practical Example Using Test Driven Development.” Medium, 14 July 2021, https://vandangogna.medium.com/a-practical-example-using-test-driven-development-88b4536ac574.
+Accessed 30 Oct. 2023.
+
+Automation Panda, editor. “PYTHON TESTING 101: BEHAVE.” Automation Panda, 14 July 2021, https://automationpanda.com/2018/05/11/python-testing-101-behave/. Accessed 31 Oct. 2023.
+
+Automation Panda, editor. “BDD 101: INTRODUCING BDD.” Automation Panda, 14 July 2021, https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/. Accessed 31 Oct. 2023.
+
+CSER, TAMAS. “Behavior-Driven Development.” Functionize, 15 Aug. 2023, https://www.functionize.com/automated-testing/behavior-driven-development. Accessed 31 Oct. 2023.
+
+behave.readthedocs, editor. “Tutorial.” Behave.readthedocs, https://behave.readthedocs.io/en/stable/tutorial.html. Accessed 31 Oct. 2023.
+
+behat, editor. “Writing Features - Gherkin Language.” Behat, https://docs.behat.org/en/v2.5/guides/1.gherkin.html. Accessed 31 Oct. 2023.
+
