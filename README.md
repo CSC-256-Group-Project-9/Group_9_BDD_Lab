@@ -1,7 +1,7 @@
 # Group 9 BDD Lab
 A resource to guide students towards successfully completing the Behaviour driven development lab (BDD).
 ## Getting Started:
-- A quick review of understanding [BDD, Gherkin, and Behave with a simple to follow example](Understanding_TDD_&_BDD)
+- A quick review of understanding [BDD, Gherkin, and Behave with a simple to follow example](Understanding_TDD_&_BDD.docx)
  *Will add quick guide(made by documents team) when finalized and added to BDD repo*
 - Another great resource for understanding [BDD:](https://behave.readthedocs.io/en/latest/) and [Gherkins:](https://cucumber.io/docs/gherkin/reference/)
 ## Project Overview
