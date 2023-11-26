@@ -2,7 +2,6 @@
 A resource to guide students towards successfully completing the Behaviour driven development lab (BDD).
 ## Getting Started:
 - A quick review of understanding [BDD, Gherkin, and Behave with a simple to follow example](Understanding_TDD_&_BDD.docx)
- *Will add quick guide(made by documents team) when finalized and added to BDD repo*
 - Another great resource for understanding [BDD:](https://behave.readthedocs.io/en/latest/) and [Gherkins:](https://cucumber.io/docs/gherkin/reference/)
 ## Project Overview
 -  The purpose of this project is to understand and use BDD.
@@ -21,7 +20,7 @@ A resource to guide students towards successfully completing the Behaviour drive
 * Remember the **BDD approach is being used to test the functionalities** of the mini-projects in the Selenium lab*
 ## Additional Notes
  ### Works cited:
- Works Cited
+
 Gogna, Vandan. “A Practical Example Using Test Driven Development.” Medium, 14 July 2021, https://vandangogna.medium.com/a-practical-example-using-test-driven-development-88b4536ac574.
 Accessed 30 Oct. 2023.
 
